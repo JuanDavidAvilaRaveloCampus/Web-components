@@ -15,5 +15,7 @@ export default class myHeader extends HTMLElement {
         })
         console.log('im here beatches');
     }
+
+    
 }
 customElements.define(name, myHeader);
