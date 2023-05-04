@@ -4,72 +4,15 @@ body {
     box-sizing: border-box;
 
 }
-
-/** HEADER **/
-.header {
-    width: 100vw;
-    height: 8rem;
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
-    
-    background-color: red;
-    /* margin: 1rem; */
-}
-
-.menu {
-    width: 97%;
-    height: 75%;
-
-    background-color: blue;
-}
-
 /* **otro */
 main {
     display: flex;
 
 }
 
-/* *SECCTION* */
+
 .section {
     width: 100%;
-    height: 67.7rem;
-
+    height: 77.1vh;
 }
-
-.section article {
-    height:  70%;
-    width: 100%;
-    
-    background-color: aqua;
-
-}
-
-/* *NAV* */
-section nav {
-    width: 40vw;
-    height: 100%;
-
-    background-color: cadetblue;
-}
-
-/* *SELECTION* */
-.section .form {
-    width: 100%;
-    height: 30%;
-
-    background-color: coral;
-}
-
-
-/* *FOOTER* */
-footer .footer {
-    width: 100%;
-    height: 6rem;
-
-    background-color: blueviolet;
-}
-
 
